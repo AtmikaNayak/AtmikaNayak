@@ -93,10 +93,3 @@ Building systems that connect people, simplify processes, and create meaningful 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtmikaNayak&theme=github-compact" />
 </p>
-
----
-
-## Interests
-
-Photography • Drawing • Wall Painting 
-
