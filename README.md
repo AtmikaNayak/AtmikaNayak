@@ -48,7 +48,7 @@ Building systems that connect people, simplify processes, and create meaningful 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,r" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,r" />
 </p>
 
 ### Full Stack Development
