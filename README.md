@@ -109,6 +109,8 @@ Building systems that connect people, simplify processes, and create meaningful 
 
 ---
 
+## Contributions Overview
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtmikaNayak&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtmikaNayak&theme=github_dark" />
 </p>
