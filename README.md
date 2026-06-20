@@ -93,7 +93,3 @@ Building systems that connect people, simplify processes, and create meaningful 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtmikaNayak&theme=github-compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtmikaNayak&theme=github_dark" />
-</p>
