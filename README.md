@@ -44,32 +44,34 @@ Building systems that connect people, simplify processes, and create meaningful 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,r" />
+  <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
+
+C • Java • JavaScript • R
 
 ### Full Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,express,postgres,mongodb,sqlite" />
 </p>
 
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase,sqlite" />
-</p>
+HTML5 • CSS3 • Bootstrap • React • Tailwind CSS • Express.js • PostgreSQL • MongoDB • SQLite
 
 ### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
+
+Git • GitHub • Docker • Linux
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" />
 </p>
+
+Visual Studio Code • IntelliJ IDEA • Eclipse
 
 ### Design & Productivity
 
@@ -77,7 +79,7 @@ Building systems that connect people, simplify processes, and create meaningful 
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-Figma • Canva
+Figma • Notion • Canva
 
 ---
 
