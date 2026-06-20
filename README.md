@@ -1,16 +1,131 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Atmika Nayak</h1>
 
-<!--
-**AtmikaNayak/AtmikaNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student • Full Stack Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building systems that connect people, simplify processes, and create meaningful impact.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:atmikanayak021206@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/atmikanayak">LinkedIn</a> •
+  <a href="https://github.com/AtmikaNayak">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtmikaNayak&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## About Me
+
+Computer Science student at NMAM Institute of Technology with an interest in full-stack development, backend engineering, and building software that solves real-world problems.
+
+Currently working with modern web technologies including React, Node.js, Express.js, SQL databases, Firebase, and cloud-based deployment platforms.
+
+---
+
+## Current Focus
+
+* Building scalable full-stack applications
+* Strengthening backend development skills
+* Learning system design fundamentals
+* Practicing data structures and algorithms
+
+---
+
+## Featured Projects
+
+| Project                               | Description                                                                                                                                                   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Unnathi**                           | Opportunity discovery platform helping women find scholarships, internships, government schemes, and financial literacy resources. Winner of Her-a-thon 2026. |
+| **College Event Registration Portal** | Event registration platform featuring JWT authentication, role-based access control, event management, and capacity tracking.                                 |
+| **SideQuest**                         | Student micro-task marketplace connecting students with paid opportunities and skill-building tasks.                                                          |
+| **PowerXchange**                      | Marketplace for students to buy, sell, rent, and exchange academic books.                                                                                     |
+| **Library Management System**         | Library automation platform with inventory management, circulation tracking, and attendance logging.                                                          |
+| **Traffic Simulator**                 | Smart traffic junction simulator implementing lane-based vehicle movement, traffic signal control, and emergency vehicle prioritization.                      |
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,r" />
+</p>
+
+### Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs,express,mysql,postgresql,mongodb,firebase,supabase,sqlite" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,vscode,eclipse,figma" />
+</p>
+
+Canva
+
+---
+
+## Achievements
+
+* Winner, Her-a-thon 2026
+* Winner, Code Auction 2026
+* Developed Unnathi, a women-focused opportunity platform with AI integration
+* Active participant in hackathons and competitive programming events
+
+---
+
+## Certifications
+
+* Java OOPs Concepts — Infosys Springboard
+* HackerRank Problem Solving Certification
+* HackerRank Java Certification
+* HackerRank SQL Certification
+* HackerRank CSS Certification
+
+---
+
+## Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/atmika_nayak/">
+    <img src="https://leetcard.jacoblin.cool/atmika_nayak?theme=dark&font=Karma" />
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtmikaNayak&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtmikaNayak&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtmikaNayak&theme=github-compact" />
+</p>
+
+---
+
+## Interests
+
+Photography • Drawing • Wall Painting • Crafts
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:atmikanayak021206@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/atmikanayak">LinkedIn</a> •
+  <a href="https://github.com/AtmikaNayak">GitHub</a>
+</p>
