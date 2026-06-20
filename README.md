@@ -68,7 +68,7 @@ Building systems that connect people, simplify processes, and create meaningful 
 ### Design & Productivity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,notion" />
+  <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
 
 ---
