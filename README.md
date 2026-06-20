@@ -14,10 +14,6 @@ Building systems that connect people, simplify processes, and create meaningful 
   <a href="https://github.com/AtmikaNayak">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtmikaNayak&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## About Me
@@ -130,12 +126,3 @@ Figma • Canva
 
 Photography • Drawing • Wall Painting 
 
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:atmikanayak021206@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/atmikanayak">LinkedIn</a> •
-  <a href="https://github.com/AtmikaNayak">GitHub</a>
-</p>
