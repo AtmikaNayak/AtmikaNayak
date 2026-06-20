@@ -22,18 +22,11 @@ Building systems that connect people, simplify processes, and create meaningful 
 
 ## About Me
 
-Computer Science student at NMAM Institute of Technology with an interest in full-stack development, backend engineering, and building software that solves real-world problems.
-
-Currently working with modern web technologies including React, Node.js, Express.js, SQL databases, Firebase, and cloud-based deployment platforms.
-
----
-
-## Current Focus
-
-* Building scalable full-stack applications
-* Strengthening backend development skills
-* Learning system design fundamentals
-* Practicing data structures and algorithms
+- Computer Science Student at NMAM Institute of Technology
+- Full Stack Developer with a focus on React, Node.js, and SQL
+- Interested in Backend Engineering, System Design, and Product Development
+- Hackathon Winner and Competitive Programmer
+- Currently building SideQuest, a student micro-task marketplace.
 
 ---
 
@@ -61,25 +54,42 @@ Currently working with modern web technologies including React, Node.js, Express
 ### Full Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs,express,mysql,postgresql,mongodb,firebase,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs,express" />
 </p>
 
-### Tools & Platforms
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,vscode,eclipse,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase,sqlite" />
 </p>
 
-Canva
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+</p>
+
+### Design & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+Figma • Canva
 
 ---
 
 ## Achievements
 
-* Winner, Her-a-thon 2026
-* Winner, Code Auction 2026
-* Developed Unnathi, a women-focused opportunity platform with AI integration
-* Active participant in hackathons and competitive programming events
+- 1st Place — Her-a-thon 2026
+- 1st Place — Code Auction 2026
+- Built Unnathi, an AI-powered opportunity platform for women
 
 ---
 
@@ -118,7 +128,7 @@ Canva
 
 ## Interests
 
-Photography • Drawing • Wall Painting • Crafts
+Photography • Drawing • Wall Painting 
 
 ---
 
