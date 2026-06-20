@@ -47,15 +47,11 @@ Building systems that connect people, simplify processes, and create meaningful 
   <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
 
-C • Java • JavaScript • R
-
 ### Full Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,express,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs,express,postgres,mongodb,firebase,supabase,sqlite" />
 </p>
-
-HTML5 • CSS3 • Bootstrap • React • Tailwind CSS • Express.js • PostgreSQL • MongoDB • SQLite
 
 ### DevOps & Tools
 
@@ -63,23 +59,17 @@ HTML5 • CSS3 • Bootstrap • React • Tailwind CSS • Express.js • Postg
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
-Git • GitHub • Docker • Linux
-
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
 </p>
-
-Visual Studio Code • IntelliJ IDEA • Eclipse
 
 ### Design & Productivity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,notion" />
 </p>
-
-Figma • Notion • Canva
 
 ---
 
