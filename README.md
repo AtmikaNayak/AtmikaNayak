@@ -73,24 +73,6 @@ Building systems that connect people, simplify processes, and create meaningful 
 
 ---
 
-## Achievements
-
-- 1st Place — Her-a-thon 2026
-- 1st Place — Code Auction 2026
-- Built Unnathi, an AI-powered opportunity platform for women
-
----
-
-## Certifications
-
-* Java OOPs Concepts — Infosys Springboard
-* HackerRank Problem Solving Certification
-* HackerRank Java Certification
-* HackerRank SQL Certification
-* HackerRank CSS Certification
-
----
-
 ## Problem Solving
 
 <p align="center">
